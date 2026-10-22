@@ -41,6 +41,7 @@
 * **[Gift Card Granny](https://giftcardgranny.com)**: Price comparison and custom visa gift card distribution.
 * **[CardCash](https://cardcash.com)**: Secondary gift card exchange and marketplace.
 * **[eGifter](https://egifter.com)**: Direct digital gift card provider offering loyalty point rewards.
+* **[I Love Gift Cards](https://ilovegiftcards.com/)**: Compare gift card discounts from multiple providers and calculate savings on planned purchases. Free to use without an account.
 
 ---
 
